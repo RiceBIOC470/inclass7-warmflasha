@@ -11,7 +11,7 @@
 % E. In which human tissues is it expressed most abundantly?
 
 %2. A. Use the unigene database to find the accession number for a genbank
-% entry containing the complete coding sequence of Cdx2. 
+% entry for an mRNA containing the complete coding sequence of Cdx2. 
 % B. Use MATLAB to read the genbank information corresponding to that
 % accession number. 
 % C. Use the information read in to find the position of the start and stop
